@@ -1,0 +1,4 @@
+#Folders ignoring
+.idea
+#Files ignoring
+.iml
